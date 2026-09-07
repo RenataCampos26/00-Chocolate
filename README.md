@@ -16,3 +16,6 @@ Salesperson         Texto	          Vendedor
 Price_per_Box       Flotante	      Precio por Caja 
 Amount              Flotante	      Monto de la Venta
 
+Fuente:
+"https://www.kaggle.com/datasets/arjunmehta1992/chocolate-sales-in-20222023"
+
