@@ -1,4 +1,27 @@
 # 00-Chocolate
+Creación de un DashBoard con Python 
+Aplicación de análisis y visualización de datos construida con Panda, Plotly y Sreamlit
+
+Descripción 
+
+Este proyecto permite:
+•	Cargar y transformar datos con Pandas.
+•	Presentar métricas clave de forma interactiva.
+•	Visualizar resultados con gráficos dinámicos en Plotly.
+•	Publicar un dashboard con Streamlit. 
+Está pensado como base para proyectos de analítica, monitoreo y reporting rápido. 
+
+Características
+•	Limpieza y preparación de datos tabulares. 
+•	Filtros interactivos por categorías, fechas y otras variables. 
+•	Gráficos de líneas, barras, y tablas resumen. 
+•	KPIs principales en una interfaz simple y clara. 
+
+Tecnologías
+•	Python 3.10+
+•	Pandas
+•	Plotly
+•	Streamlit
 
 Estructura de Datos
 El proyecto asume una tabla principal en formato CSV como: 
